@@ -1,0 +1,21 @@
+<RCC>
+<qresource prefix="/logo">
+<file alias="logo">src_file/logo/logo.png</file>
+</qresource>
+
+<qresource prefix="/bg">
+<file alias="bg">src_file/bg/bg.png</file>
+</qresource>
+
+<qresource prefix="/label">
+<file alias="label1">src_file/label/label1.png</file>
+</qresource>
+<qresource prefix="/button">
+<file alias="close_red">src_file/button/close_red.png</file>
+<file alias="close_blue">src_file/button/close_blue.png</file>
+</qresource>
+
+<qresource prefix="/qss">
+<file alias="default">src_file/qss/default.qss</file>
+</qresource>
+</RCC>

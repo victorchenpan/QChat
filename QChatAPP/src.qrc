@@ -1,0 +1,30 @@
+<RCC version="1.0">
+
+<qresource prefix="/qss">
+<file alias="default">qss/default.qss</file>
+</qresource>
+
+<qresource prefix="/background">
+<file alias="bg">src_file/background/bg.png</file>
+</qresource>
+
+<qresource prefix="/button">
+<file alias="start">src_file/button/start.png</file>
+<file alias="start_green">src_file/button/start_green.png</file>
+<file alias="close">src_file/button/close.png</file>
+<file alias="close_blue">src_file/button/close_blue.png</file>
+<file alias="close_red">src_file/button/close_red.png</file>
+<file alias="stop">src_file/button/stop.png</file>
+<file alias="ensure">src_file/button/ensure.png</file>
+</qresource>
+
+<qresource prefix="/label">
+<file alias="head1">src_file/label/cat_16.png</file>
+<file alias="head2">src_file/label/cat_24.png</file>
+</qresource>
+
+<qresource prefix="/logo">
+<file alias="logo">src_file/logo/logo.png</file>
+</qresource>
+
+</RCC>

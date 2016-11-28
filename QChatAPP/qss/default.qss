@@ -1,0 +1,46 @@
+QServerWidget#mainWidget{
+    background-image:url(:/background/bg);
+    border-radius:8px;
+}
+QPushButton#app_close{
+    background-image:url(:/button/close_blue);
+    border:none;
+}
+QPushButton#app_close:pressed{
+    background-image:url(:/button/close_red);
+    border:none;
+}
+QPushButton#start{
+    background-image:url(:/button/start);
+    border:none;
+}
+QPushButton#start:pressed{
+    background-image:url(:/button/start_green);
+    border:none;
+}
+QPushButton#stop{
+    background-image:url(:/button/stop);
+    border:none;
+}
+QPushButton#ensure{
+    background-image:url(:/button/ensure);
+    border:none;
+}
+QLabel#logo{
+    background-image:url(:/logo/logo);
+    border:none;
+}
+QLabel#app_name{
+    border:none;
+    color:blue;
+    font:14px bold;
+}
+QListWidget#listWidget{
+    background-color:transparent;
+    border:3px gray;
+}
+QLabel#start_label{
+    background-color:transparent;
+    border-radius:4px;
+    border-width:3px;
+}

@@ -1,0 +1,30 @@
+QPushButton#exitApp{
+    background-image:url(:/button/close_blue);
+    border:none;
+}
+ChatClient#clientWidget{
+background-image:url(:/bg/bg);
+}
+QPushButton#exitApp:pressed{
+    background-image:url(:/button/close_red);
+    border:none;
+}
+QLabel#logo{
+    background-image:url(:/logo/logo);
+}
+QLabel#userName{
+    /*background-image:url(:/label/label1);*/
+    background-color:transparent;
+}
+QLabel#serverIP{
+  /* background-image:url(:/label/label1);*/
+    background-color:transparent;
+}
+QLabel#serverPort{
+    /*background-image:url(:/label/label1);*/
+    background-color:transparent;
+}
+QListWidget#listWidget{
+    background-color:transparent;
+    border:none;
+}
